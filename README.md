@@ -22,4 +22,4 @@ Passionate about coding and self-learning. Currently following The Odin Project 
 <img align="center" src="https://profile-counter.glitch.me/{nabilredoyan}/count.svg" />
 <br></div>
 <h2></h2>
-<h2>⭐ Badges</h2>
+
