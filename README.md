@@ -16,3 +16,10 @@ Passionate about coding and self-learning. Currently following The Odin Project 
 [![](https://visitcount.itsvg.in/api?id=nabilredoyan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2>🔢 Visitor Count</h2>
+<div align="center">
+<br>
+<img align="center" src="https://profile-counter.glitch.me/{nabilredoyan}/count.svg" />
+<br></div>
+<h2></h2>
+<h2>⭐ Badges</h2>
