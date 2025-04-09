@@ -32,10 +32,15 @@
 ---
 
 ### 📈 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nabil-redoyan&show_icons=true&theme=dark&icon_color=red&text_color=red&title_color=red" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nabil-redoyan&theme=dark&ring=red&fire=red" />
+<p align=center>
+<a href="https://github.com/nabilredoyan">
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nabilredoyan&show_icons=true&include_all_commits=true&show_icons=true&title_color=303030&icon_color=303030&text_color=303030&bg_color=ffffff&hide_border=true" alt="Statistics." /> -->
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilredoyan&show_icons=true&show_icons=true&title_color=000&icon_color=303030&text_color=303030&bg_color=ffffff&hide_border=true" alt="Statistics." /> -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nabilredoyan&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilredoyan&show_icons=true&show_icons=true&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
+</a>
 </p>
+</details>
 
 ---
 
