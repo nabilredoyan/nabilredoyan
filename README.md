@@ -1,36 +1,9 @@
-<h1 align="center" style="color:red;"> Nabil Redoyan</h1>
-<h3 align="center" style="color:white;">Full-Stack Dev in Training | Currently Doing The Odin Project</h3>
+# 💫 About Me:
+Passionate about coding and self-learning. Currently following The Odin Project to sharpen my full-stack skills.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code%20Mode-ON-red?style=for-the-badge&logo=github&logoColor=white">
-</p>
 
----
-
-### 🕶️ About Me
-🌱 I’m currently diving deep into **The Odin Project**  
-💻 I love building with **HTML, CSS, JavaScript, Java, Python, and React**  
-⚙️ Exploring more about backend with **Node.js**  
-🎯 Goal: Become a well-rounded full-stack developer  
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=red">
-  <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=red">
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=red">
-  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=red">
-  <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=red">
-  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=red">
-  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=red">
-  <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=red">
-  <img src="https://img.shields.io/badge/VS Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=red">
-</p>
-
----
-
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ### 📈 GitHub Stats
 <p align=center>
 <a href="https://github.com/nabilredoyan">
@@ -42,12 +15,16 @@
 </p>
 </details>
 
----
-
-### 🔥 Fun Fact
-
-> I turn coffee into code ☕💻 and bugs into features (sometimes intentionally 😉)
----
 
 
+
+[![](https://visitcount.itsvg.in/api?id=nabilredoyan&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2>🔢 Visitor Count</h2>
+<div align="center">
+<br>
+<img align="center" src="https://profile-counter.glitch.me/{nabilredoyan}/count.svg" />
+<br></div>
+<h2></h2>
 
